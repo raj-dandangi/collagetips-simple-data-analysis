@@ -1,5 +1,5 @@
 please 
-[clickhere]https://github.com/raj-dandangi/collagetips-simple-data-analysis/blob/main/presenation-files/Social%20Media%20Content%20and%20Engagement%20Overview%20(Instagram%20and%20YouTube).pdf
+[clickhere](https://github.com/raj-dandangi/collagetips-simple-data-analysis/blob/main/presenation-files/Social%20Media%20Content%20and%20Engagement%20Overview%20(Instagram%20and%20YouTube).pdf)
 for full pdf on comment and sentimental analysis and recommendation
 ---
 
