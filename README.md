@@ -1,4 +1,3 @@
-Sure! Here's an **updated version of your `readme-file.txt`** with emojis and improved formatting for better readability on GitHub:
 
 ---
 
