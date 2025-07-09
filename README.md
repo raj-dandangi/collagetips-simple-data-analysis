@@ -62,7 +62,6 @@ We collected and analyzed data from various platforms including:
   - Hashtag `#CollegeTips` has minimal impact on engagement
 
 - 📈 **Competitor Benchmarking**:  
-  - Competitors like `@collegeadvice` and `@collegelife` have higher engagement and consistent branding  
   - Suggested strategies: Use of Reels, influencer collaborations, and content calendars
 
 - 🎬 **YouTube Comments Analysis**:  
